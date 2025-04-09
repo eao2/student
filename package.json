@@ -1,5 +1,5 @@
 {
-  "name": "student",
+  "name": "sas",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,17 +9,15 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@react-native-community/masked-view": "^0.1.11",
-    "@react-navigation/native": "^7.1.5",
-    "@react-navigation/stack": "^7.2.9",
+    "@expo/vector-icons": "^14.0.4",
+    "@react-navigation/native": "6.1.9",
+    "@react-navigation/native-stack": "6.9.17",
     "expo": "~52.0.43",
+    "expo-linear-gradient": "^14.0.2",
     "expo-status-bar": "~2.0.1",
-    "moment": "^2.30.1",
     "react": "18.3.1",
     "react-native": "0.76.9",
-    "react-native-gesture-handler": "^2.25.0",
-    "react-native-paper": "^5.13.1",
-    "react-native-reanimated": "^3.17.2",
+    "react-native-elements": "^3.4.3",
     "react-native-safe-area-context": "^5.3.0",
     "react-native-screens": "^4.10.0"
   },
